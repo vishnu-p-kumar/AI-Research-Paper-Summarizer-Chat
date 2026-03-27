@@ -285,3 +285,22 @@ OLLAMA_NUM_CTX=1024
 OLLAMA_NUM_PREDICT=256
 OLLAMA_TEMPERATURE=0.2
 ```
+
+## Output of the project
+
+
+![dashboard](https://github.com/user-attachments/assets/cfe3d5ce-6f03-4b7d-8565-d774f627e92e)
+
+
+![summary](https://github.com/user-attachments/assets/8c85c6b3-6c70-4598-8fa8-44925c82cc56)
+
+
+![summary chat](https://github.com/user-attachments/assets/de255f21-d1df-411b-8700-c1f4a836a639)
+
+
+![Web Scrape chat](https://github.com/user-attachments/assets/591d6747-5aec-4fff-90d1-5860b3667aa0)
+
+
+
+
+
